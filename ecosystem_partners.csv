@@ -1,61 +1,91 @@
-title,url,ingested_at,source
-Humanoid Robot Actuators,https://www.firgelli.com/pages/humanoid-robot-actuators,2026-05-04 07:05:34.281826,HackerNews
-"Using ""underdrawings"" for accurate text and numbers",https://samcollins.blog/underdrawings/,2026-05-04 07:05:34.281882,HackerNews
-BYOMesh – New LoRa mesh radio offers 100x the bandwidth,https://partyon.xyz/@nullagent/116499715071759135,2026-05-04 07:05:34.281912,HackerNews
-DeepClaude – Claude Code agent loop with DeepSeek V4 Pro,https://github.com/aattaran/deepclaude,2026-05-04 07:05:34.281937,HackerNews
-Discovering hard disk physical geometry through microbenchmarking (2019),https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/,2026-05-04 07:05:34.281958,HackerNews
-The 'Hidden' Costs of Great Abstractions,https://jdgr.net/the-hidden-costs-of-great-abstractions,2026-05-04 07:05:34.281978,HackerNews
-Southwest Headquarters Tour,https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html,2026-05-04 07:05:34.281996,HackerNews
-A desktop made for one,https://isene.org/2026/05/Audience-of-One.html,2026-05-04 07:05:34.282013,HackerNews
-OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors,https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses,2026-05-04 07:05:34.282030,HackerNews
-Tar Files Created on macOS Display Errors When Extracting on Linux (2024),https://aruljohn.com/blog/macos-created-tar-files-linux-errors/,2026-05-04 07:05:34.282048,HackerNews
-K3sup – bootstrap K3s over SSH in < 60s,https://github.com/alexellis/k3sup,2026-05-04 07:05:34.282070,HackerNews
-Introduction to Atom,https://validator.w3.org/feed/docs/atom.html,2026-05-04 07:05:34.282089,HackerNews
-US–Indian space mission maps extreme subsidence in Mexico City,https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html,2026-05-04 07:05:34.282106,HackerNews
-Stitch Together Lots of Little HTML Pages with Navigations for Interactions,https://blog.jim-nielsen.com/2026/small-html-pages/,2026-05-04 07:05:34.282123,HackerNews
-A Treasure Trove of Fossils Rewrites the Story of Early Life,https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/,2026-05-04 07:05:34.282140,HackerNews
-Denuvo has been cracked in all single-player games it previously protected,https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks,2026-05-04 07:05:34.282157,HackerNews
-Bad Connection: Global telecom exploitation by covert surveillance actors,https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/,2026-05-04 07:05:34.282174,HackerNews
-"New statue in London, attributed to Banksy, of a suited man, blinded by a flag",https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/,2026-05-04 07:05:34.282191,HackerNews
-Mercedes-Benz commits to bringing back physical buttons,https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/,2026-05-04 07:05:34.282208,HackerNews
-Show HN: Ableton Live MCP,https://github.com/bschoepke/ableton-live-mcp,2026-05-04 07:05:34.282224,HackerNews
-The text mode lie: why modern TUIs are a nightmare for accessibility,https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility,2026-05-04 07:05:34.282241,HackerNews
-Let's Buy Spirit Air,https://letsbuyspiritair.com/,2026-05-04 07:05:34.282257,HackerNews
-Text-to-CAD,https://github.com/earthtojake/text-to-cad,2026-05-04 07:05:34.282273,HackerNews
-Why TUIs are back,https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/,2026-05-04 07:05:34.282290,HackerNews
-"Fun with polynomials and linear algebra; or, slight abstract nonsense",https://guille.site/posts/abstract-nonsense/,2026-05-04 07:05:34.282306,HackerNews
-I recreated the Apple Lisa computer inside an FPGA [video],https://www.youtube.com/watch?v=8jNQDcpHc68,2026-05-04 07:05:34.282324,HackerNews
-"Roger Sweet, Creator of the He-Man Action Figure, Dies at 91",https://www.nytimes.com/2026/04/29/arts/roger-sweet-dead-he-man.html,2026-05-04 07:05:34.282341,HackerNews
-Security through obscurity is not bad,https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/,2026-05-04 07:05:34.282358,HackerNews
-What is Z-Angle Memory and why is Intel developing it?,https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/,2026-05-04 07:05:34.282375,HackerNews
-Show HN: Apple's SHARP running in the browser via ONNX runtime web,https://github.com/bring-shrubbery/ml-sharp-web,2026-05-04 07:05:34.282391,HackerNews
-"Show HN: Audiomass – a free, open-source multitrack audio editor for the web",https://audiomass.co/?multitrack=1,2026-05-25 02:54:18.949323,HackerNews
-"DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",https://esengine.github.io/DeepSeek-Reasonix/,2026-05-25 02:54:18.949383,HackerNews
-A fundamental principle of aeronautical engineering has been overturned,https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/,2026-05-25 02:54:18.949415,HackerNews
-Memory has grown to nearly two-thirds of AI chip component costs,https://epoch.ai/data-insights/ai-chip-component-cost-shares,2026-05-25 02:54:18.949441,HackerNews
-I spent 50 hours drawing a line graph,https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html,2026-05-25 02:54:18.949463,HackerNews
-Constraint Decay: The Fragility of LLM Agents in Back End Code Generation,https://arxiv.org/abs/2605.06445,2026-05-25 02:54:18.949539,HackerNews
-Using HTTP/2 Cleartext for a server in Go 1.24,https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run,2026-05-25 02:54:18.949562,HackerNews
-Microsoft open-sources “the earliest DOS source code discovered to date”,https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/,2026-05-25 02:54:18.949582,HackerNews
-Noroboto: Lying Fonts and Mitigation in Rust,https://tritium.legal/blog/noroboto,2026-05-25 02:54:18.949602,HackerNews
-Mastering Dyalog APL,https://mastering.dyalog.com/README.html,2026-05-25 02:54:18.949621,HackerNews
-Build Adafruit projects right from Firefox,https://www.firefox.com/en-US/landing/adafruit/,2026-05-25 02:54:18.949640,HackerNews
-Defeating Git Rigour Fatigue with Jujutsu,https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/,2026-05-25 02:54:18.949659,HackerNews
-Scientists solve 200-year-old puzzle of how tobacco plants make nicotine,https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/,2026-05-25 02:54:18.949678,HackerNews
-Getting an old Computer online with Android Ethernet tethering,https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/,2026-05-25 02:54:18.949696,HackerNews
-Greg Brockman interview [video],https://fs.blog/knowledge-project-podcast/greg-brockman/,2026-05-25 02:54:18.949714,HackerNews
-White Rabbit – sub-nanosecond synchronization for large distributed systems,https://ohwr.org/projects/white-rabbit/,2026-05-25 02:54:18.949731,HackerNews
-Scammers are abusing an internal Microsoft account to send spam links,https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/,2026-05-25 02:54:18.949749,HackerNews
-Childhood Computing,https://susam.net/childhood-computing.html,2026-05-25 02:54:18.949767,HackerNews
-Perceptual Image Codec: What Matters in Practical Learned Image Compression,https://apple.github.io/ml-pico/,2026-05-25 02:54:18.949785,HackerNews
-Why is Vivado 2026.1 dropping Linux support for free tier?,https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US,2026-05-25 02:54:18.949802,HackerNews
-LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years,https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/,2026-05-25 02:54:18.949820,HackerNews
-Ruby for Good,https://ti.to/codeforgood/rubyforgood,2026-05-25 02:54:18.949838,HackerNews
-Book Review: On the Calculation of Volume,https://www.stephendiehl.com/posts/calculation_of_volume/,2026-05-25 02:54:18.949855,HackerNews
-I keep bouncing off the Scheme language,https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/,2026-05-25 02:54:18.949873,HackerNews
-Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking,https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer,2026-05-25 02:54:18.949890,HackerNews
-DeepSeek makes the V4 Pro price discount permanent,https://api-docs.deepseek.com/quick_start/pricing,2026-05-25 02:54:18.949908,HackerNews
-Migrating from Go to Rust,https://corrode.dev/learn/migration-guides/go-to-rust/,2026-05-25 02:54:18.949926,HackerNews
-The C64 Dead Test Font,https://www.masswerk.at/nowgobang/2026/c64-dead-test-font,2026-05-25 02:54:18.949944,HackerNews
-Time to talk about my writerdeck,https://veronicaexplains.net/my-first-writerdeck/,2026-05-25 02:54:18.949962,HackerNews
-Usborne 1980s Computer Books,https://usborne.com/us/books/computer-and-coding-books,2026-05-25 02:54:18.949979,HackerNews
+title,url,ingested_at,source,Company Name,Website,Raw Description,Country,AI Partner Tier,Ecosystem Pitch,Specializations,Focus Verticals,Regulatory/Compliance,Competitor Alliances,HQ Country,Public Tender History,Key Contacts
+Humanoid Robot Actuators,https://www.firgelli.com/pages/humanoid-robot-actuators,2026-05-04 07:05:34.281826,HackerNews,,,,,,,,,,,,,
+"Using ""underdrawings"" for accurate text and numbers",https://samcollins.blog/underdrawings/,2026-05-04 07:05:34.281882,HackerNews,,,,,,,,,,,,,
+BYOMesh – New LoRa mesh radio offers 100x the bandwidth,https://partyon.xyz/@nullagent/116499715071759135,2026-05-04 07:05:34.281912,HackerNews,,,,,,,,,,,,,
+DeepClaude – Claude Code agent loop with DeepSeek V4 Pro,https://github.com/aattaran/deepclaude,2026-05-04 07:05:34.281937,HackerNews,,,,,,,,,,,,,
+Discovering hard disk physical geometry through microbenchmarking (2019),https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/,2026-05-04 07:05:34.281958,HackerNews,,,,,,,,,,,,,
+The 'Hidden' Costs of Great Abstractions,https://jdgr.net/the-hidden-costs-of-great-abstractions,2026-05-04 07:05:34.281978,HackerNews,,,,,,,,,,,,,
+Southwest Headquarters Tour,https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html,2026-05-04 07:05:34.281996,HackerNews,,,,,,,,,,,,,
+A desktop made for one,https://isene.org/2026/05/Audience-of-One.html,2026-05-04 07:05:34.282013,HackerNews,,,,,,,,,,,,,
+OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors,https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses,2026-05-04 07:05:34.282030,HackerNews,,,,,,,,,,,,,
+Tar Files Created on macOS Display Errors When Extracting on Linux (2024),https://aruljohn.com/blog/macos-created-tar-files-linux-errors/,2026-05-04 07:05:34.282048,HackerNews,,,,,,,,,,,,,
+K3sup – bootstrap K3s over SSH in < 60s,https://github.com/alexellis/k3sup,2026-05-04 07:05:34.282070,HackerNews,,,,,,,,,,,,,
+Introduction to Atom,https://validator.w3.org/feed/docs/atom.html,2026-05-04 07:05:34.282089,HackerNews,,,,,,,,,,,,,
+US–Indian space mission maps extreme subsidence in Mexico City,https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html,2026-05-04 07:05:34.282106,HackerNews,,,,,,,,,,,,,
+Stitch Together Lots of Little HTML Pages with Navigations for Interactions,https://blog.jim-nielsen.com/2026/small-html-pages/,2026-05-04 07:05:34.282123,HackerNews,,,,,,,,,,,,,
+A Treasure Trove of Fossils Rewrites the Story of Early Life,https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/,2026-05-04 07:05:34.282140,HackerNews,,,,,,,,,,,,,
+Denuvo has been cracked in all single-player games it previously protected,https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks,2026-05-04 07:05:34.282157,HackerNews,,,,,,,,,,,,,
+Bad Connection: Global telecom exploitation by covert surveillance actors,https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/,2026-05-04 07:05:34.282174,HackerNews,,,,,,,,,,,,,
+"New statue in London, attributed to Banksy, of a suited man, blinded by a flag",https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/,2026-05-04 07:05:34.282191,HackerNews,,,,,,,,,,,,,
+Mercedes-Benz commits to bringing back physical buttons,https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/,2026-05-04 07:05:34.282208,HackerNews,,,,,,,,,,,,,
+Show HN: Ableton Live MCP,https://github.com/bschoepke/ableton-live-mcp,2026-05-04 07:05:34.282224,HackerNews,,,,,,,,,,,,,
+The text mode lie: why modern TUIs are a nightmare for accessibility,https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility,2026-05-04 07:05:34.282241,HackerNews,,,,,,,,,,,,,
+Let's Buy Spirit Air,https://letsbuyspiritair.com/,2026-05-04 07:05:34.282257,HackerNews,,,,,,,,,,,,,
+Text-to-CAD,https://github.com/earthtojake/text-to-cad,2026-05-04 07:05:34.282273,HackerNews,,,,,,,,,,,,,
+Why TUIs are back,https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/,2026-05-04 07:05:34.282290,HackerNews,,,,,,,,,,,,,
+"Fun with polynomials and linear algebra; or, slight abstract nonsense",https://guille.site/posts/abstract-nonsense/,2026-05-04 07:05:34.282306,HackerNews,,,,,,,,,,,,,
+I recreated the Apple Lisa computer inside an FPGA [video],https://www.youtube.com/watch?v=8jNQDcpHc68,2026-05-04 07:05:34.282324,HackerNews,,,,,,,,,,,,,
+"Roger Sweet, Creator of the He-Man Action Figure, Dies at 91",https://www.nytimes.com/2026/04/29/arts/roger-sweet-dead-he-man.html,2026-05-04 07:05:34.282341,HackerNews,,,,,,,,,,,,,
+Security through obscurity is not bad,https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/,2026-05-04 07:05:34.282358,HackerNews,,,,,,,,,,,,,
+What is Z-Angle Memory and why is Intel developing it?,https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/,2026-05-04 07:05:34.282375,HackerNews,,,,,,,,,,,,,
+Show HN: Apple's SHARP running in the browser via ONNX runtime web,https://github.com/bring-shrubbery/ml-sharp-web,2026-05-04 07:05:34.282391,HackerNews,,,,,,,,,,,,,
+"Show HN: Audiomass – a free, open-source multitrack audio editor for the web",https://audiomass.co/?multitrack=1,2026-05-25 02:54:18.949323,HackerNews,,,,,,,,,,,,,
+"DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",https://esengine.github.io/DeepSeek-Reasonix/,2026-05-25 02:54:18.949383,HackerNews,,,,,,,,,,,,,
+A fundamental principle of aeronautical engineering has been overturned,https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/,2026-05-25 02:54:18.949415,HackerNews,,,,,,,,,,,,,
+Memory has grown to nearly two-thirds of AI chip component costs,https://epoch.ai/data-insights/ai-chip-component-cost-shares,2026-05-25 02:54:18.949441,HackerNews,,,,,,,,,,,,,
+I spent 50 hours drawing a line graph,https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html,2026-05-25 02:54:18.949463,HackerNews,,,,,,,,,,,,,
+Constraint Decay: The Fragility of LLM Agents in Back End Code Generation,https://arxiv.org/abs/2605.06445,2026-05-25 02:54:18.949539,HackerNews,,,,,,,,,,,,,
+Using HTTP/2 Cleartext for a server in Go 1.24,https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run,2026-05-25 02:54:18.949562,HackerNews,,,,,,,,,,,,,
+Microsoft open-sources “the earliest DOS source code discovered to date”,https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/,2026-05-25 02:54:18.949582,HackerNews,,,,,,,,,,,,,
+Noroboto: Lying Fonts and Mitigation in Rust,https://tritium.legal/blog/noroboto,2026-05-25 02:54:18.949602,HackerNews,,,,,,,,,,,,,
+Mastering Dyalog APL,https://mastering.dyalog.com/README.html,2026-05-25 02:54:18.949621,HackerNews,,,,,,,,,,,,,
+Build Adafruit projects right from Firefox,https://www.firefox.com/en-US/landing/adafruit/,2026-05-25 02:54:18.949640,HackerNews,,,,,,,,,,,,,
+Defeating Git Rigour Fatigue with Jujutsu,https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/,2026-05-25 02:54:18.949659,HackerNews,,,,,,,,,,,,,
+Scientists solve 200-year-old puzzle of how tobacco plants make nicotine,https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/,2026-05-25 02:54:18.949678,HackerNews,,,,,,,,,,,,,
+Getting an old Computer online with Android Ethernet tethering,https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/,2026-05-25 02:54:18.949696,HackerNews,,,,,,,,,,,,,
+Greg Brockman interview [video],https://fs.blog/knowledge-project-podcast/greg-brockman/,2026-05-25 02:54:18.949714,HackerNews,,,,,,,,,,,,,
+White Rabbit – sub-nanosecond synchronization for large distributed systems,https://ohwr.org/projects/white-rabbit/,2026-05-25 02:54:18.949731,HackerNews,,,,,,,,,,,,,
+Scammers are abusing an internal Microsoft account to send spam links,https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/,2026-05-25 02:54:18.949749,HackerNews,,,,,,,,,,,,,
+Childhood Computing,https://susam.net/childhood-computing.html,2026-05-25 02:54:18.949767,HackerNews,,,,,,,,,,,,,
+Perceptual Image Codec: What Matters in Practical Learned Image Compression,https://apple.github.io/ml-pico/,2026-05-25 02:54:18.949785,HackerNews,,,,,,,,,,,,,
+Why is Vivado 2026.1 dropping Linux support for free tier?,https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US,2026-05-25 02:54:18.949802,HackerNews,,,,,,,,,,,,,
+LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years,https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/,2026-05-25 02:54:18.949820,HackerNews,,,,,,,,,,,,,
+Ruby for Good,https://ti.to/codeforgood/rubyforgood,2026-05-25 02:54:18.949838,HackerNews,,,,,,,,,,,,,
+Book Review: On the Calculation of Volume,https://www.stephendiehl.com/posts/calculation_of_volume/,2026-05-25 02:54:18.949855,HackerNews,,,,,,,,,,,,,
+I keep bouncing off the Scheme language,https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/,2026-05-25 02:54:18.949873,HackerNews,,,,,,,,,,,,,
+Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking,https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer,2026-05-25 02:54:18.949890,HackerNews,,,,,,,,,,,,,
+DeepSeek makes the V4 Pro price discount permanent,https://api-docs.deepseek.com/quick_start/pricing,2026-05-25 02:54:18.949908,HackerNews,,,,,,,,,,,,,
+Migrating from Go to Rust,https://corrode.dev/learn/migration-guides/go-to-rust/,2026-05-25 02:54:18.949926,HackerNews,,,,,,,,,,,,,
+The C64 Dead Test Font,https://www.masswerk.at/nowgobang/2026/c64-dead-test-font,2026-05-25 02:54:18.949944,HackerNews,,,,,,,,,,,,,
+Time to talk about my writerdeck,https://veronicaexplains.net/my-first-writerdeck/,2026-05-25 02:54:18.949962,HackerNews,,,,,,,,,,,,,
+Usborne 1980s Computer Books,https://usborne.com/us/books/computer-and-coding-books,2026-05-25 02:54:18.949979,HackerNews,,,,,,,,,,,,,
+,,,,"Show HN: Audiomass – a free, open-source multitrack audio editor for the web",https://audiomass.co/?multitrack=1,"Scraped Headline: Show HN: Audiomass – a free, open-source multitrack audio editor for the web",Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,"DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",https://esengine.github.io/DeepSeek-Reasonix/,"Scraped Headline: DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,A fundamental principle of aeronautical engineering has been overturned,https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/,Scraped Headline: A fundamental principle of aeronautical engineering has been overturned,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,White Rabbit – sub-nanosecond synchronization for large distributed systems,https://ohwr.org/projects/white-rabbit/,Scraped Headline: White Rabbit – sub-nanosecond synchronization for large distributed systems,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Memory has grown to nearly two-thirds of AI chip component costs,https://epoch.ai/data-insights/ai-chip-component-cost-shares,Scraped Headline: Memory has grown to nearly two-thirds of AI chip component costs,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,I spent 50 hours drawing a line graph,https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html,Scraped Headline: I spent 50 hours drawing a line graph,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Constraint Decay: The Fragility of LLM Agents in Back End Code Generation,https://arxiv.org/abs/2605.06445,Scraped Headline: Constraint Decay: The Fragility of LLM Agents in Back End Code Generation,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Using HTTP/2 Cleartext for a server in Go 1.24,https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run,Scraped Headline: Using HTTP/2 Cleartext for a server in Go 1.24,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Microsoft open-sources “the earliest DOS source code discovered to date”,https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/,Scraped Headline: Microsoft open-sources “the earliest DOS source code discovered to date”,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Build Adafruit projects right from Firefox,https://www.firefox.com/en-US/landing/adafruit/,Scraped Headline: Build Adafruit projects right from Firefox,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Mastering Dyalog APL,https://mastering.dyalog.com/README.html,Scraped Headline: Mastering Dyalog APL,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Scientists solve 200-year-old puzzle of how tobacco plants make nicotine,https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/,Scraped Headline: Scientists solve 200-year-old puzzle of how tobacco plants make nicotine,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Bug 1950764: Work Around Crash on Intel Raptor Lake CPU,https://phabricator.services.mozilla.com/D301917,Scraped Headline: Bug 1950764: Work Around Crash on Intel Raptor Lake CPU,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Noroboto: Lying Fonts and Mitigation in Rust,https://tritium.legal/blog/noroboto,Scraped Headline: Noroboto: Lying Fonts and Mitigation in Rust,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Defeating Git Rigour Fatigue with Jujutsu,https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/,Scraped Headline: Defeating Git Rigour Fatigue with Jujutsu,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Greg Brockman interview [video],https://fs.blog/knowledge-project-podcast/greg-brockman/,Scraped Headline: Greg Brockman interview [video],Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Getting an old Computer online with Android Ethernet tethering,https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/,Scraped Headline: Getting an old Computer online with Android Ethernet tethering,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Scammers are abusing an internal Microsoft account to send spam links,https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/,Scraped Headline: Scammers are abusing an internal Microsoft account to send spam links,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Perceptual Image Codec: What Matters in Practical Learned Image Compression,https://apple.github.io/ml-pico/,Scraped Headline: Perceptual Image Codec: What Matters in Practical Learned Image Compression,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Childhood Computing,https://susam.net/childhood-computing.html,Scraped Headline: Childhood Computing,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Why is Vivado 2026.1 dropping Linux support for free tier?,https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US,Scraped Headline: Why is Vivado 2026.1 dropping Linux support for free tier?,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years,https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/,Scraped Headline: LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Book Review: On the Calculation of Volume,https://www.stephendiehl.com/posts/calculation_of_volume/,Scraped Headline: Book Review: On the Calculation of Volume,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Building Pi with Pi,https://lucumr.pocoo.org/2026/5/24/pi-oss/,Scraped Headline: Building Pi with Pi,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,I keep bouncing off the Scheme language,https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/,Scraped Headline: I keep bouncing off the Scheme language,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking,https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer,Scraped Headline: Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Ruby for Good,https://ti.to/codeforgood/rubyforgood,Scraped Headline: Ruby for Good,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,DeepSeek makes the V4 Pro price discount permanent,https://api-docs.deepseek.com/quick_start/pricing,Scraped Headline: DeepSeek makes the V4 Pro price discount permanent,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,Time to talk about my writerdeck,https://veronicaexplains.net/my-first-writerdeck/,Scraped Headline: Time to talk about my writerdeck,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
+,,,,The C64 Dead Test Font,https://www.masswerk.at/nowgobang/2026/c64-dead-test-font,Scraped Headline: The C64 Dead Test Font,Singapore,Prospect,Pending Review,TBD,Technology,Pending,Unknown,Singapore,No data,
